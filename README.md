@@ -1,7 +1,7 @@
 # MediaWiki Kubernetes Deployment
 
 ## MEDIAWIKI PROBLEM STATEMENT
- > Automate the deployment of MediaWiki using Kubernetes with Helm Chart/ any equivalent automation.
+ > Automate the deployment of MediaWiki using Kubernetes with Helm Chart/any equivalent automation.
  
 ## Solution
 ### Introduction to MediaWiki
