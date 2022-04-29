@@ -136,24 +136,24 @@ Scalable Instance of WikiMedia running in secure network Azure Kubernetes Servic
  
 ***
 ##### Pods
-![](../Images/Pods.PNG)
+![](ThoughtWorks/Images/Pods.PNG)
 ***
 ##### Services
-![](Images/Services.PNG)
+![](ThoughtWorks/Images/Services.PNG)
 ***
 ##### Persistent Volume Claims
-![](Images/PVC.PNG)
+![](ThoughtWorks/Images/PVC.PNG)
 ***
 ##### Secrets
-![](Images/Secrets.PNG)
+![](ThoughtWorks/Images/Secrets.PNG)
 ***
 ##### Persistent Volumes
-![](Images/PV.PNG)
+![](ThoughtWorks/Images/PV.PNG)
 ***
 
 ### Running Instance
 ***
-![](Images/Instance.PNG)
+![](ThoughtWorks/Images/Instance.PNG)
 ***
 
 ### References 
