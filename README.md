@@ -102,7 +102,7 @@ $SUBSCRIPTION = "<subscription-id"
 $RESOURCEGROUP = "<resource-group-name>"
 $CLUSTERNAME = "<cluster-name>"
 ```
-* NOTE: Uncomment manditory parameters if wanted to create registry secret. Current deployment will pull open sourced Images.(Use of private registry is recommended for production usage).
+* NOTE: Uncomment mandatory parameters if wanted to create registry secret. Current deployment will pull open sourced Images.(Use of private registry is recommended for production usage).
 Part to uncomment given below,
 ```powershell
 # param(
