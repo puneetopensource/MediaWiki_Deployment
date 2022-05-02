@@ -1,8 +1,8 @@
 [cmdletbinding()]
-param(
-    [parameter(Mandatory)] $DockerUserName,
-    [parameter(Mandatory)] $DockerPassword
-     )
+# param(
+#     [parameter(Mandatory)] $DockerUserName,
+#     [parameter(Mandatory)] $DockerPassword
+#      )
 #$ErrorActionPreference = "Stop"
 $SUBSCRIPTION = "<subscription-id"
 $RESOURCEGROUP = "<resource-group-name>"
@@ -45,7 +45,7 @@ if ($NameSpace) {
 # if ($secret) {
 #     Write-Host "$secretName secret already exists, skipping secret creation"
 # } else {
-#     kubectl create secret docker-registry $secretName --docker-server=siemens-docker.jfrog.io --docker-username=$DockerUserName --docker-password=$DockerPassword --docker-email=$DockerUserName -n $MediaWikiNameSpace 
+#     kubectl create secret docker-registry $secretName --docker-server=<registry-name> --docker-username=$DockerUserName --docker-password=$DockerPassword --docker-email=$DockerUserName -n $MediaWikiNameSpace 
 # }
 
 write-host "--------------------------------------------------------------"
